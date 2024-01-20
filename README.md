@@ -1,6 +1,6 @@
-- 👋 Hi, I’m NAMAN BADHAN AKA @Dhanmnnn
-- 👀 I’m interested in DATA Visualization and Analysis
-- 🌱 I’m currently learning these topics from freeCodeCamp
+- 👋 Hi, I’m NAMAN BADHAN AKA @DhanMan
+- 👀 I’m interested in DATA Analysis, Cyber Security, Cloud Computing, AI and ML
+- 🌱 I’m currently learning these topics from the internet
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - Add me on Discord - @naman.badhan#5994 
 
